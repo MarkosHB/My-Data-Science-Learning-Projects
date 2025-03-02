@@ -1,0 +1,3 @@
+[submodule "ManageYourData"]
+	path = ManageYourData
+	url = https://github.com/MarkosHB/ManageYourData
