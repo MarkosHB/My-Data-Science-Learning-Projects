@@ -1,6 +1,7 @@
 # 🚀 My Data Science Learning Projects.
 
 Welcome to my personal collection of hands-on data science projects! This repository showcases my journey exploring and mastering various data science concepts, tools, and techniques. 
+🌟 Stay tuned as I continue to expand this repository with more exciting projects!
 
 ### 🌸 Iris Classification.
 - 📄 [Notebook](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/iris/notebook.ipynb)
@@ -16,6 +17,6 @@ Welcome to my personal collection of hands-on data science projects! This reposi
 - 📄 [Repository](https://github.com/MarkosHB/ManageYourData)
 - 🛠️ **Technologies:** Pandas, Matplotlib, FPDF, Openpyxl, Streamlit.
 - 🧪 **Summary:** A self-made tool for generating PDF reports from data files locally.
----
 
-🌟 Stay tuned as I continue to expand this repository with more exciting projects!
+> [!Note] 
+> Have a look at this repo about my [Machine Learning Subject](https://github.com/MarkosHB/Machine-Learning-Subject) wich contains even more projects written in R.
