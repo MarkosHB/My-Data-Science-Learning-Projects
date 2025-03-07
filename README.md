@@ -13,7 +13,7 @@ Welcome to my personal collection of hands-on data science projects! This reposi
 - 🛠️ **Technologies:** Scikit-learn, TensorFlow.
 - 🧪 **Summary:** Predicting the likelihood of diabetes using machine learning models, focusing on data preprocessing and model evaluation.
 
-### 🩺 Breast Cancer.
+### 🧑‍⚕️ Breast Cancer.
 - 📄 [Notebook](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/breast_cancer/notebook.ipynb)
 - 🛠️ **Technologies:** Autokeras, Scikit-learn.
 - 🧪 **Summary:** Automated approach to classify breast cancer cases. The project leverages AutoKeras to find optimal deep learning models with minimal manual tuning.
