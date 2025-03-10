@@ -65,6 +65,7 @@ py4j==0.10.9.7
 pyarrow==19.0.1
 Pygments==2.19.1
 pyparsing==3.2.1
+pyspark==3.5.5
 python-dateutil==2.9.0.post0
 pytz==2025.1
 pywin32==308
