@@ -18,6 +18,11 @@ Welcome to my personal collection of hands-on data science projects! This reposi
 - 🛠️ **Technologies:** Autokeras, Scikit-learn.
 - 🧪 **Summary:** Automated approach to classify breast cancer cases. The project leverages AutoKeras to find optimal deep learning models with minimal manual tuning.
 
+### 🍷 Wine.
+- 📄 [Notebook](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/wine/notebook.ipynb)
+- 🛠️ **Technologies:** Pyspark, Pandas.
+- 🧪 **Summary:** The script processes the Wine dataset using Apache Spark, performing data cleaning, exploration, and applying custom pandas UDFs for additional transformations.
+
 ### 📊 Manage Your Data.
 - 📄 [Repository](https://github.com/MarkosHB/ManageYourData)
 - 🛠️ **Technologies:** Pandas, Matplotlib, FPDF, Openpyxl, Streamlit.
