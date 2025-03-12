@@ -23,6 +23,11 @@ Welcome to my personal collection of hands-on data science projects! This reposi
 - 🛠️ **Technologies:** Pyspark, Pandas.
 - 🧪 **Summary:** The script processes the Wine dataset using Apache Spark, performing data cleaning, exploration, and applying custom pandas UDFs for additional transformations.
 
+### 🏠 California Housing.
+- 📄 [Notebook](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/california_housing/notebook.ipynb)
+- 🛠️ **Technologies:** Dask, Scikit-learn.
+- 🧪 **Summary:** This time, we will use an alternative to Pandas so that parallel computing is considered when manipulating dataframes thanks to the library Dask.
+
 ### 📊 Manage Your Data.
 - 📄 [Repository](https://github.com/MarkosHB/ManageYourData)
 - 🛠️ **Technologies:** Pandas, Matplotlib, FPDF, Openpyxl, Streamlit.
