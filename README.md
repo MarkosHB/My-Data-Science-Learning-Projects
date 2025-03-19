@@ -2,6 +2,9 @@
 
 Welcome to my personal collection of hands-on data science projects! This repository showcases my journey exploring and mastering various data science concepts, tools, and techniques. 
 🌟 Stay tuned as I continue to expand this repository with more exciting projects!
+  
+> [!Note] 
+> Have a look at this repo about my [Machine Learning Subject](https://github.com/MarkosHB/Machine-Learning-Subject) wich contains even more projects written in R.
 
 ### 🌸 Iris Classification.
 - 📄 [Notebook](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/iris/notebook.ipynb)
@@ -28,10 +31,14 @@ Welcome to my personal collection of hands-on data science projects! This reposi
 - 🛠️ **Technologies:** Dask, Scikit-learn.
 - 🧪 **Summary:** This time, we will use an alternative to Pandas so that parallel computing is considered when manipulating dataframes thanks to the library Dask.
 
-### 📊 Manage Your Data.
-- 📄 [Repository](https://github.com/MarkosHB/ManageYourData)
+### 📊 ManageYourData.
+- 💻 [Repository](https://github.com/MarkosHB/ManageYourData)
 - 🛠️ **Technologies:** Pandas, Matplotlib, FPDF, Openpyxl, Streamlit.
 - 🧪 **Summary:** A self-made tool for generating PDF reports from data files locally.
 
-> [!Note] 
-> Have a look at this repo about my [Machine Learning Subject](https://github.com/MarkosHB/Machine-Learning-Subject) wich contains even more projects written in R.
+---
+
+### 🎛️ Data analysis.
+- 📋 [Carprice report](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/carprice/carprice.pdf) and [Titanic report](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/titanic/titanic.pdf)
+-  🛠️ **Technologies:** Power BI.
+- 🧪 **Summary:** My first two dashboards ever made with Power BI allowed me to learn the basics of visualizing and manipulating data. 
