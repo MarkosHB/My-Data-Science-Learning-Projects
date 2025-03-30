@@ -31,6 +31,11 @@ Welcome to my personal collection of hands-on data science projects! This reposi
 - 🛠️ **Technologies:** Dask, Scikit-learn.
 - 🧪 **Summary:** This time, we will use an alternative to Pandas so that parallel computing is considered when manipulating dataframes thanks to the library Dask.
 
+### 💭 Movie Reviews.
+- 📄 [Notebook](https://github.com/MarkosHB/My-Data-Science-Learning-Projects/blob/main/movie_reviews/notebook.ipynb)
+- 🛠️ **Technologies:** NLTK, Scikit-learn.
+- 🧪 **Summary:** The notebook analyzes movie reviews using the NLTK library, focusing on text preprocessing, feature extraction, and sentiment classification with a Naive Bayes model.
+
 ### 📊 ManageYourData.
 - 💻 [Repository](https://github.com/MarkosHB/ManageYourData)
 - 🛠️ **Technologies:** Pandas, Matplotlib, FPDF, Openpyxl, Streamlit.
